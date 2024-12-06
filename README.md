@@ -1,0 +1,1 @@
+This example demonstrates a common issue with the post-increment operator in C, specifically its behavior when used within the `printf` function.  The unexpected output arises from the interplay between function argument evaluation and the post-increment operator.
